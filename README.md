@@ -19,27 +19,17 @@
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+1. Clone the project from the repo.
+2. Navigate to the project.
+3. You can run the project by either using a local server e.g using VSCODE's live server or by clicking directly onto the index.html file to open in your browser. 
 
 ## Authors
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/DhuruvSingh)
-- Twitter: [@twitterhandle](https://twitter.com/)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/dhuruv-singh-a1a51aa9)
+- GitHub: [@DhuruvSingh](https://github.com/DhuruvSingh)
+- Twitter: [@Ritiksi76216487](https://twitter.com/Ritiksi76216487)
+- LinkedIn: [dhuruv-singh-a1a51aa9](https://www.linkedin.com/in/dhuruv-singh-a1a51aa9/)
 
 ## 🤝 Contributing
 
